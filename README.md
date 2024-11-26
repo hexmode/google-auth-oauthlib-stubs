@@ -7,5 +7,5 @@ The stubs were written by [cffnpwr](https://github.com/cffnpwr).
 ## Installation
 
 ```sh
-poetry add -G dev google-auth-oauthlib-atubs
+poetry add -G dev google-auth-oauthlib-stubs
 ```
